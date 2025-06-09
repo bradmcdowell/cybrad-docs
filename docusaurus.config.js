@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'cybrad',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'cybrad tagline',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -23,7 +23,7 @@ const config = {
   url: 'https://docs.cybrad.au',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/cybrad-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
